@@ -5,9 +5,10 @@ This is a repository to play fun and learn about typescript and angular 2
 Teerapong Singthong
 
 # Stack Lists
-Angular 2
-TypeScript
-Babel
-Webpack
-Sass
-MangoDB
+1. Angular 2
+2. TypeScript
+3. Babel
+4. Webpack
+5. Sass
+6. MangoDB
+7. Bootstrap 4
