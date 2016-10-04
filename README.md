@@ -1,5 +1,5 @@
 # Angular2 - Sandbox
-To learn how Angular2 ecosystem and component based principle of Angular2. This repository is intentionally created for gaining more experience with this framework and on the learning way, I hopefully get other ideas or best practice/new technology stack that supports Angular2 to be a powerful framework.
+To learn how Angular2 ecosystem works and component based principle of Angular2. This repository is intentionally created for gaining more experience with this framework and on the learning way, I hopefully get other ideas or best practice/new technology stack that supports Angular2 to be a powerful framework.
 
 # Author
 Teerapong Singthong
