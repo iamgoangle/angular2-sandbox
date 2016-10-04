@@ -1,5 +1,5 @@
-# angular2-sandbox
-Golf has created this directory in order to learn all about Angular 2.
+# Angular2 - Sandbox
+To learn how Angular2 ecosystem and component based principle of Angular2. This repository is intentionally created for gaining more experience with this framework and on the learning way, I hopefully get other ideas or best practice/new technology stack that supports Angular2 to be a powerful framework.
 
 # Author
 Teerapong Singthong
@@ -7,11 +7,12 @@ Teerapong Singthong
 # Stack Lists
 1. Angular 2
 2. TypeScript
-3. Babel
 4. Webpack
 5. Sass
-6. MangoDB
-7. Bootstrap 4
+6. MongoDB
+7. Bootstrap 4 / ng-bbootstrap
+8. RxJS
+9. Karma / Jasmine or Mocha
 
 # Todo
 1. Convert css to sass (.scss) lang
